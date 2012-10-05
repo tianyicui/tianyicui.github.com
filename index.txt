@@ -24,8 +24,8 @@ My dreams are:
 My Résumé
 ---------
 
-* Plain text: http://tianyicui.com/resume.txt
 * HTML: http://tianyicui.com/resume.html
+* Plain text: http://tianyicui.com/resume.txt
 
 Links
 -----
