@@ -65,7 +65,7 @@ Intern Experience
 Open Source Experience
 ----------------------
 
-* In September 2012, I created `GoLio` (https://github.com/tianyicui/golio), which is a `Lisp` dialect implemented in `OCaml` with a `Go`-like concurrency model (i.e, goroutines and channels).
+* In September 2012, I created `GoLio` (http://tianyicui.com/golio/), which is a `Lisp` dialect implemented in `OCaml` with a `Go`-like concurrency model (i.e, goroutines and channels).
 * I submitted patches to various open source projects; most of them got accepted. The notable projects are `Homebrew`, `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
 
 Education
