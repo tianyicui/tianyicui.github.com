@@ -7,11 +7,10 @@ Email:: tianyicui@gmail.com
 
 Phone:: +8613958103659 (It's a prime number!)
 
-Objectives
-----------
+Objective
+---------
 
-* Overcome cognitive biases and practice the art of human rationality.
-* Reach mastery in computer programming and build mechanisms to make programmers' life more fulfilling.
+* I am not seeking career opportunities right now.
 
 Skills
 ------
@@ -48,6 +47,8 @@ Academic Achievements
 * Hangzhou Regional, Gold Medal, 2008
 * Hefei Regional (team leader), Gold Medal, 2009
 * Wuhan Regional (team leader), Gold Medal, 2009
+* Jinhua Regional (team leader), Gold Medal, 2012
+* Hangzhou Regional (team leader), Gold Medal, 2012
 
 .Zhejiang Provincial Collegiate Programming Contest
 

@@ -10,16 +10,19 @@ I am:
 
 * an undergraduate in College of Computer Science and Technology at Zhejiang University.
 
+I am soon to be:
+
+* an employee of http://www.janestreet.com/[Jane Street Capital] in its Hong Kong office (employment visa pending).
+
 I was:
 
 * a full-time intern at Microsoft Research Asia and Hulu, respectively.
-* a four-time ACM/ICPC Asia regional gold medal winner.
+* a six-time ACM/ICPC Asia regional gold medal winner.
 
 My dreams are:
 
 * to overcome cognitive biases and practice the art of human rationality.
-* to reach mastery in computer programming and build tools to make programmers' life more fulfilling.
-
+* to reach mastery in computer programming and build tools to make people's lives more fulfilling and productive.
 
 My Résumé
 ---------
@@ -30,7 +33,6 @@ My Résumé
 Links
 -----
 
-* GoLio (my open source project): http://tianyicui.com/golio/
 * LinkedIn: http://www.linkedin.com/in/tianyicui
 * GitHub: https://github.com/tianyicui
 * Stack Overflow: http://stackoverflow.com/users/424592/tianyi-cui
