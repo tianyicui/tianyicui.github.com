@@ -16,7 +16,7 @@ Skills
 ------
 
 * Algorithm design, analysis and implementation.
-* Programming Languages: `OCaml`, `Haskell`, `Ruby`, `C`, `C++`, `C#`.
+* Programming Languages: `OCaml`, `Haskell`, `Ruby`, `C/C++`, `C#`, `Opa`.
 * Rich experience with common `Unix` command line utilities and development tools.
 * Excellent quick learning and problem-solving ability under time constraints.
 
