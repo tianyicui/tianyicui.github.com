@@ -20,6 +20,11 @@ Skills
 * Rich experience with common `Unix` command line utilities and development tools.
 * Excellent quick learning and problem-solving ability under time constraints.
 
+Working Experience
+------------------
+
+* Jul 2013 - present, _Jane Street_, Hong Kong
+
 Intern Experience
 -----------------
 
@@ -30,4 +35,4 @@ Intern Experience
 Education
 ---------
 
-* I am an undergraduate in College of Computer Science and Technology at Zhejiang University, and expected to graduate in June 2013.
+* I have a Bachelor's degree in Computer Science and Technology at Zhejiang University.
