@@ -5,32 +5,37 @@ Web:: http://tianyicui.com
 
 Email:: contact@tianyicui.com
 
-Objective
----------
-
-* I am not seeking career opportunities right now.
-
 Skills
 ------
 
-* Algorithm design, analysis and implementation.
-* Programming Languages: `OCaml`, `Haskell`, `Ruby`, `C/C++`, `C#`, `Opa`.
+* Large-scale, low-latency, and distributed system design and implementation.
+* Machine learning and its applications in Natural Language Processing (NLP).
+* Programming Languages: `OCaml`, `C/C++`, `Bash`, `Ruby`, `C#`, `Opa`.
 * Rich experience with common `Unix` command line utilities and development tools.
 * Excellent quick learning and problem-solving ability under time constraints.
 
-Working Experience
-------------------
+Publications
+------------
 
-* Jul 2013 - present, _Jane Street_, Hong Kong
+* Min Yang, **Tianyi Cui**, Wenting Tu, _Discovering Author Interest Evolution in Topic Modeling_, Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2016.
 
-Intern Experience
------------------
+* Min Yang, **Tianyi Cui**, Wenting Tu, http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9390[_Order-sensitive and Semantic-aware Topic Modeling_], Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (**AAAI**), 2015.
 
-* Jan 2013 - Mar 2013, _Jane Street_, Hong Kong
-* Nov 2011 - Jan 2012, _Hulu_, Beijing
-* Feb 2011 - May 2011, _Microsoft Research Asia_, Beijing
+Experience
+----------
+
+* Jan 2016 - present, Senior Software Developer, _Jane Street_, New York
+* Jul 2013 - Dec 2015, Software Developer, _Jane Street_, Hong Kong
+* Jan 2013 - Mar 2013, Software Developer Intern, _Jane Street_, Hong Kong
+* Nov 2011 - Jan 2012, Research Software Developer Intern, _Hulu_, Beijing
+* Feb 2011 - May 2011, Research Software Development Engineer (RSDE) Intern, _Microsoft Research Asia_, Beijing
 
 Education
 ---------
 
 * I received Bachelor's degree in Computer Science and Technology from Zhejiang University.
+
+Achievements
+------------
+
+* Six gold medals of ACM International Collegiate Programming Contest (ACM/ICPC) Asia regional.
