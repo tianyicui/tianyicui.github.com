@@ -1,10 +1,11 @@
 Tianyi Cui (崔添翼)
 ================
 
-* I am an employee of http://janestreet.com/[Jane Street] in its Hong Kong office.
+* I am a software developer working at http://janestreet.com/[Jane Street] in its New York office. Before moving to US, I worked in its Hong Kong office for 2.5 years.
 * I graduated from College of Computer Science and Technology at Zhejiang University.
 * My dreams are:
-  - to overcome cognitive biases and practice the art of human rationality.
+  - to live a long and happy life.
+  - to practice the art of human rationality.
   - to reach mastery in computer programming and use my expertise to make people's lives more fulfilling.
 
 Résumé
@@ -17,6 +18,7 @@ Links
 -----
 
 * GitHub: https://github.com/tianyicui
-* Hacker News: http://news.ycombinator.com/user?id=tianyicui
+* Hacker News: https://news.ycombinator.com/user?id=tianyicui
 * LessWrong: http://lesswrong.com/user/tianyicui
-* LinkedIn: http://www.linkedin.com/in/tianyicui
+* Twitter: https://twitter.com/tianyi
+* LinkedIn: https://www.linkedin.com/in/tianyicui
