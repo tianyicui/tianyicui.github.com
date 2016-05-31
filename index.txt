@@ -1,7 +1,7 @@
 Tianyi Cui (崔添翼)
 ================
 
-* I am a software developer working at http://janestreet.com/[Jane Street] in its New York office. Before moving to US, I worked in its Hong Kong office for 2.5 years.
+* I am a senior software developer working at http://janestreet.com/[Jane Street] in its New York office. Before moving to US in 2016, I worked in its Hong Kong office since 2013.
 * I graduated from College of Computer Science and Technology at Zhejiang University.
 * My dreams are:
   - to live a long and happy life.
@@ -16,8 +16,6 @@ Résumé
 
 Publications
 ------------
-
-* Min Yang, **Tianyi Cui**, Wenting Tu, _Discovering Author Interest Evolution in Topic Modeling_, Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2016.
 
 * Min Yang, **Tianyi Cui**, Wenting Tu, http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9390[_Order-sensitive and Semantic-aware Topic Modeling_], Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (**AAAI**), 2015.
 
